@@ -30,3 +30,4 @@ See the file [src/main/resources/db/dataload.sql](src/main/resources/db/dataload
 
 - username: john@example.com
 - password: test
+
